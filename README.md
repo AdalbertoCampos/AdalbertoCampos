@@ -2,7 +2,7 @@
 
 # I'm Adalberto Campos de Melo.
 
-* I'm a Front-End developer. :computer:
+* I'm a Web Development student. :computer:
 * I live in Brazil.
 * I have been learning a lot about JavaScript and the web in general. :writing_hand:
 * I code for fun, but I really want to get a IT job. :vulcan_salute:
