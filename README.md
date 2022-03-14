@@ -2,7 +2,7 @@
 
 # I'm Adalberto Campos de Melo.
 
-* I'm a Web Development student. :computer:
+* I'm a Web Development/Java student. :computer:
 * I live in Brazil.
 * I have been learning a lot about JavaScript and the web in general. :writing_hand:
 * I really want to get experience. :vulcan_salute:
